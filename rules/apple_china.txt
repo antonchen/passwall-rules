@@ -96,11 +96,6 @@ pancake.cdn-apple.com.akadns.net
 phobos.apple.com
 prod-support.apple-support.akadns.net
 reserve-prime.apple.com
-s1.mzstatic.com
-s2.mzstatic.com
-s3.mzstatic.com
-s4.mzstatic.com
-s5.mzstatic.com
 s.mzstatic.com
 stocks-sparkline-lb.apple.com.akadns.net
 store.apple.com
